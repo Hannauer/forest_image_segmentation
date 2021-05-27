@@ -9,7 +9,7 @@ Studets:
          João Pedro Hannauer Valentini - 9390486
          
          
-Abstratc: The main project goal is to use image segmentation in order to produce segments of forest images based on google maps arial images.
+Abstratc: The main project goal is to use image segmentation in order to produce segments of forest images based on google maps aerial images.
 
 Examples:
 
