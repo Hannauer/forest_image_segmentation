@@ -18,6 +18,11 @@ Input Images: The images are mostly composed of forest images with fire obtained
 [Link to acess the dataset](https://www.kaggle.com/kutaykutlu/forest-fire)
 
 Dataset Examples:
+![example1](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/1.png)
+![example2](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/2.png)
+![example3](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/3.png)
+![example4](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/4.png)
+
 
 
 Project Steps:
@@ -39,10 +44,3 @@ Project Steps:
 
 Obs: the inicial code for the project can be found on the notebooks directory.
 
-
-Examples:
-
-![forest1](https://github.com/Hannauer/forest_image_segmentation/blob/main/WhatsApp%20Image%202021-05-27%20at%208.16.27%20PM.jpeg)
-
-
-![forest2](https://github.com/Hannauer/forest_image_segmentation/blob/main/montreal-bg.jpg)
