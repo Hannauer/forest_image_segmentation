@@ -19,9 +19,9 @@ Input Images: The images are mostly composed of forest images with fire obtained
 
 Dataset Examples:
 ![example1](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/1.png)
-![example2](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/2.png)
-![example3](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/3.png)
-![example4](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/4.png)
+![example2](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/2.jpg)
+![example3](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/3.jpg)
+![example4](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/4.jpg)
 
 
 
