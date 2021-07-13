@@ -8,7 +8,8 @@ Studets:
          Caio Ferreira Bernado - 9276936
          João Pedro Hannauer Valentini - 9390486
          
-         
+In this project, we did not dived tasks, in such way that all the analysis were performed by both of project's integrants.
+
 Abstract: The main project goal is to use image segmentation in order to produce segments of forest images based on google maps aerial images. We intend to gather images by web scraping or to find some public API that has available aerial images of forests. The expected result is that each different segment as dense forest areas, rivers and trails appearing on the image could be able to be identified.
 
 Main Objective: We intend to compare different methods for image segmentation in the context of aerial forest images that can indicate a potential human intervention or damage mainly focused on fires. The idea is to identify the algorithm that more consistently can segment the fires from the rest of the images. We are also trying to propose an initialization approach for the watershed seeds because we believe that a smarter choice of the initial point can lead to a better performance in the fire region segmentation.
