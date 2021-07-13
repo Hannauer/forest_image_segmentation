@@ -23,6 +23,14 @@ Dataset Examples:
 ![example3](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/3.jpg)
 ![example4](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/4.jpg)
 
+In order to perform a quantitative analysis, we also use a Urban Aereal images, which can be found on the link below. This dataset was chosen because it counts with labeled images, which allows us to perform measures on how good the result of our segmentation is according to the ground truth segmentation.
+
+[Link to acess the dataset](https://www.kaggle.com/bulentsiyah/semantic-drone-dataset)
+
+![example1_urban](https://github.com/Hannauer/forest_image_segmentation/blob/main/notebooks/000.jpg)
+![example1_urban_label](https://github.com/Hannauer/forest_image_segmentation/blob/main/notebooks/000_label.png)
+![example2_urban](https://github.com/Hannauer/forest_image_segmentation/blob/main/notebooks/572.jpg)
+![example2_urban_label](https://github.com/Hannauer/forest_image_segmentation/blob/main/notebooks/572_label.png)
 
 
 Project Steps:
