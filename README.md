@@ -1,4 +1,4 @@
-# image_segmentatio
+# image_segmentation
 This is a repository for the final project of the Image Processing class from USP 
 
 Name: Segmentation of Forest Areas
@@ -18,7 +18,6 @@ Input Images: The images are mostly composed of forest images with fire obtained
 [Link to acess the dataset](https://www.kaggle.com/kutaykutlu/forest-fire)
 
 Dataset Examples:
-![example1](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/1.png)
 ![example2](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/2.jpg)
 ![example3](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/3.jpg)
 ![example4](https://github.com/Hannauer/forest_image_segmentation/blob/main/fire_seg_test/4.jpg)
